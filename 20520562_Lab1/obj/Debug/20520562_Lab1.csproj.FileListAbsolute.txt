@@ -1,0 +1,11 @@
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\bin\Debug\20520562_Lab1.exe.config
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\bin\Debug\20520562_Lab1.exe
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\bin\Debug\20520562_Lab1.pdb
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\obj\Debug\20520562_Lab1.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\obj\Debug\20520562_Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\obj\Debug\_20520562_Lab1.Form1.resources
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\obj\Debug\_20520562_Lab1.Properties.Resources.resources
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\obj\Debug\20520562_Lab1.csproj.GenerateResource.cache
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\obj\Debug\20520562_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\obj\Debug\20520562_Lab1.exe
+C:\Users\This PC\source\repos\20520562_Lab1\20520562_Lab1\obj\Debug\20520562_Lab1.pdb
